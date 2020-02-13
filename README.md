@@ -1,9 +1,9 @@
-# Ryan Test Task
+# Test Task
 
 ### Please run the following commands to setup the project:
 
-$ git clone https://github.com/sumitstpl/ryan-test-task.git
-$ cd ryan-test-task
+$ git clone https://github.com/akhilmorya/test-task.git
+$ cd test-task
 $ yarn
 $ cd ios
 $ pod install
